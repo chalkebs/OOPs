@@ -1,0 +1,8 @@
+{
+  "Rice":
+	[{"price":30,"weight":20}],
+  "Wheat":
+	[{"price":200,"weight":30}],
+  "Pulses":
+	[{"price":100,"weight":10}]
+}
