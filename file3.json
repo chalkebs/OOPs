@@ -1,0 +1,8 @@
+{
+	"Share1":
+		[{"NumOfShares":2,"Price":300}],
+	"Share2":
+		[{"NumOfShares":3,"Price":400}],
+	"Share3":
+		[{"NumOfShares":2,"Price":400}]
+}
