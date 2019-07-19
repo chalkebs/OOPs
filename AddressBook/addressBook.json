@@ -1,0 +1,33 @@
+[ {
+  "state" : "maharashtra",
+  "city" : "mumbai",
+  "phoneNo" : "9960506704",
+  "firstName" : "chhakuli",
+  "lastName" : "chalke",
+  "address" : "dombivli",
+  "zip" : "410014"
+}, {
+  "state" : "maharashtra",
+  "city" : "ratnagiri",
+  "phoneNo" : "8805240791",
+  "firstName" : "smita",
+  "lastName" : "chalke",
+  "address" : "udyamnagar",
+  "zip" : "415600"
+}, {
+  "state" : "maharashtra",
+  "city" : "ratnagiri",
+  "phoneNo" : "9021554228",
+  "firstName" : "bhagyashri",
+  "lastName" : "chalke",
+  "address" : "udyamnagar",
+  "zip" : "415700"
+}, {
+  "state" : "maharashtra",
+  "city" : "devrukh",
+  "phoneNo" : "9130348244",
+  "firstName" : "salina",
+  "lastName" : "bodale",
+  "address" : "sahyadrinagar",
+  "zip" : "415800"
+} ]
