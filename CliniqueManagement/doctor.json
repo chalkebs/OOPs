@@ -1,0 +1,19 @@
+[ {
+  "name" : "sunil raghunath chalke",
+  "specialization" : "Cardiologist",
+  "id" : "10",
+  "availabilityFrom" : "8",
+  "availabilityTo" : "20"
+}, {
+  "name" : "karishma ravindra kadam",
+  "specialization" : "surgeon",
+  "id" : "12",
+  "availabilityFrom" : "12",
+  "availabilityTo" : "17"
+}, {
+  "name" : "siddhesh sunil chalke",
+  "specialization" : "surgeon",
+  "id" : "30",
+  "availabilityFrom" : "8",
+  "availabilityTo" : "21"
+} ]
