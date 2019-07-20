@@ -1,0 +1,25 @@
+[ {
+  "state" : "maharashtra",
+  "city" : "ratnagrir",
+  "phoneNo" : "9130348244",
+  "firstName" : "salina",
+  "lastName" : "bodale",
+  "address" : "sahyadrinagar",
+  "zip" : "412100"
+}, {
+  "state" : "maharashtra",
+  "city" : "devrukh",
+  "phoneNo" : "9292828282",
+  "firstName" : "ankita",
+  "lastName" : "chalke",
+  "address" : "karli",
+  "zip" : "413600"
+}, {
+  "state" : "maharashtra",
+  "city" : "ratnagiri",
+  "phoneNo" : "9021554228",
+  "firstName" : "bhagyashri",
+  "lastName" : "chalke",
+  "address" : "udyamnagar",
+  "zip" : "415700"
+} ]
